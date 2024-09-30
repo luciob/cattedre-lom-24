@@ -1,5 +1,11 @@
 import schools from "../../data/miur-db-lom.json";
 
+type SchoolSeat = {
+  classId: string;
+  intSeats: number;
+  extSeats: number;
+};
+
 export type School = {
   "@id": string;
   "miur:ANNOSCOLASTICO": number;
@@ -22,6 +28,7 @@ export type School = {
   "miur:REGIONE": string;
   "miur:SEDESCOLASTICA": string;
   "miur:SITOWEBSCUOLA": string;
+  seats: SchoolSeat[];
 };
 
 export const extractComoSchools = () => {
