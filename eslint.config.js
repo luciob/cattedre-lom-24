@@ -28,6 +28,11 @@ export default [
       "*.njsproj",
       "*.sln",
       "*.sw?",
+      /* Data big files */
+      "data/accantonamenti",
+      "data/geo-db-lom.json",
+      "data/miur-db.json",
+      "data/seats-db-lom.json",
     ],
   },
   { settings: { react: { version: "detect" } } },
