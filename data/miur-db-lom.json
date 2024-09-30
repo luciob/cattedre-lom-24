@@ -1,0 +1,4782 @@
+[
+  {
+    "@id": "_:b46812",
+    "http://w3c/future-csv-vocab/row": 1292,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24047,
+    "miur:CODICECOMUNESCUOLA": "L400",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS00200L",
+    "miur:CODICESCUOLA": "BGIS00200L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"SIMONE WEIL\"",
+    "miur:DENOMINAZIONESCUOLA": "\"SIMONE WEIL\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TREVIGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS00200L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis00200l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA L. GALVANI 7",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceoweil.it",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5198449,
+      "lon": 9.5851919
+    }
+  },
+  {
+    "@id": "_:b7750",
+    "http://w3c/future-csv-vocab/row": 32963,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24030,
+    "miur:CODICECOMUNESCUOLA": "H046",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS00300C",
+    "miur:CODICESCUOLA": "BGIS00300C",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"BETTY AMBIVERI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"BETTY AMBIVERI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "PRESEZZO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS00300C@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis00300c@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA C.BERIZZI 1",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.bettyambiveri.it",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6955496,
+      "lon": 9.5771648
+    }
+  },
+  {
+    "@id": "_:b2616",
+    "http://w3c/future-csv-vocab/row": 44400,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24047,
+    "miur:CODICECOMUNESCUOLA": "L400",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS004008",
+    "miur:CODICESCUOLA": "BGIS004008",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ARCHIMEDE\"",
+    "miur:DENOMINAZIONESCUOLA": "\"ARCHIMEDE\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TREVIGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS004008@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis004008@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CARAVAGGIO 52",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 6,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5086627,
+      "lon": 9.6154404
+    }
+  },
+  {
+    "@id": "_:b38630",
+    "http://w3c/future-csv-vocab/row": 45551,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24058,
+    "miur:CODICECOMUNESCUOLA": "H509",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS00600X",
+    "miur:CODICESCUOLA": "BGIS00600X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"G.B. RUBINI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"G.B. RUBINI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ROMANO DI LOMBARDIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS00600X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis00600x@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BELVEDERE",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 5,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5226355,
+      "lon": 9.7559894
+    }
+  },
+  {
+    "@id": "_:b35472",
+    "http://w3c/future-csv-vocab/row": 42550,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24030,
+    "miur:CODICECOMUNESCUOLA": "H046",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS00800G",
+    "miur:CODICESCUOLA": "BGIS00800G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"MAIRONI DA PONTE\"",
+    "miur:DENOMINAZIONESCUOLA": "\"MAIRONI DA PONTE\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "PRESEZZO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS00800G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis00800g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA C. BERIZZI 1",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A013",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6955496,
+      "lon": 9.5771648
+    }
+  },
+  {
+    "@id": "_:b25739",
+    "http://w3c/future-csv-vocab/row": 41252,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24021,
+    "miur:CODICECOMUNESCUOLA": "A163",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS00900B",
+    "miur:CODICESCUOLA": "BGIS00900B",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"OSCAR ARNULFO ROMERO\"",
+    "miur:DENOMINAZIONESCUOLA": "\"OSCAR ARNULFO ROMERO\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ALBINO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS00900B@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis00900b@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIALE ALDO MORO 51",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.isisromero.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.767595,
+      "lon": 9.7941506
+    }
+  },
+  {
+    "@id": "_:b19552",
+    "http://w3c/future-csv-vocab/row": 7935,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24044,
+    "miur:CODICECOMUNESCUOLA": "D245",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS01100B",
+    "miur:CODICESCUOLA": "BGIS01100B",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"LUIGI EINAUDI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"LUIGI EINAUDI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "DALMINE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS01100B@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis01100b@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA VERDI 48",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.650115,
+      "lon": 9.598115
+    }
+  },
+  {
+    "@id": "_:b44183",
+    "http://w3c/future-csv-vocab/row": 42063,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24023,
+    "miur:CODICECOMUNESCUOLA": "C800",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS012007",
+    "miur:CODICESCUOLA": "BGIS012007",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ANDREA FANTONI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"ANDREA FANTONI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CLUSONE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS012007@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis012007@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BARBARIGO 27",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.istitutofantoni.it",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.893276,
+      "lon": 9.963157
+    }
+  },
+  {
+    "@id": "_:b33433",
+    "http://w3c/future-csv-vocab/row": 18055,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24019,
+    "miur:CODICECOMUNESCUOLA": "M184",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS013003",
+    "miur:CODICESCUOLA": "BGIS013003",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"DAVID MARIA TUROLDO\"",
+    "miur:DENOMINAZIONESCUOLA": "\"DAVID MARIA TUROLDO\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ZOGNO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS013003@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis013003@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA RONCO 11",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.7979065,
+      "lon": 9.6717468
+    }
+  },
+  {
+    "@id": "_:b35793",
+    "http://w3c/future-csv-vocab/row": 20773,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24069,
+    "miur:CODICECOMUNESCUOLA": "L388",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS01400V",
+    "miur:CODICESCUOLA": "BGIS01400V",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"LORENZO LOTTO\"",
+    "miur:DENOMINAZIONESCUOLA": "\"LORENZO LOTTO\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TRESCORE BALNEARIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS01400V@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis01400v@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DELL'ALBAROTTO N. 23",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.707292,
+      "lon": 9.856681
+    }
+  },
+  {
+    "@id": "_:b34033",
+    "http://w3c/future-csv-vocab/row": 39307,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24025,
+    "miur:CODICECOMUNESCUOLA": "D952",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS01600E",
+    "miur:CODICESCUOLA": "BGIS01600E",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"VALLE SERIANA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"VALLE SERIANA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "GAZZANIGA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS01600E@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis01600e@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MARCONI 45",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.79701,
+      "lon": 9.837574
+    }
+  },
+  {
+    "@id": "_:b32479",
+    "http://w3c/future-csv-vocab/row": 42228,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24068,
+    "miur:CODICECOMUNESCUOLA": "I628",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS01700A",
+    "miur:CODICESCUOLA": "BGIS01700A",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ETTORE MAJORANA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"ETTORE MAJORANA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "SERIATE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS01700A@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis01700a@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA PARTIGIANI 1",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.68333825,
+      "lon": 9.715751583
+    }
+  },
+  {
+    "@id": "_:b7345",
+    "http://w3c/future-csv-vocab/row": 45884,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24067,
+    "miur:CODICECOMUNESCUOLA": "I437",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS02300N",
+    "miur:CODICESCUOLA": "BGIS02300N",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"SERAFINO RIVA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"SERAFINO RIVA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "SARNICO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS02300N@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis02300n@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CORTIVO 30/32",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B021",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.668697,
+      "lon": 9.951833
+    }
+  },
+  {
+    "@id": "_:b15609",
+    "http://w3c/future-csv-vocab/row": 1653,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24069,
+    "miur:CODICECOMUNESCUOLA": "L388",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS02400D",
+    "miur:CODICESCUOLA": "BGIS02400D",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"LORENZO FEDERICI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"LORENZO FEDERICI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TRESCORE BALNEARIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS02400D@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis02400d@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DELL'ALBAROTTO",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6898436,
+      "lon": 9.8298645
+    }
+  },
+  {
+    "@id": "_:b46097",
+    "http://w3c/future-csv-vocab/row": 46045,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24129,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS026005",
+    "miur:CODICESCUOLA": "BGIS026005",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"MARIAGRAZIA MAMOLI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"MARIAGRAZIA MAMOLI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS026005@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis026005@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BREMBILLA 3",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6910602,
+      "lon": 9.6314438
+    }
+  },
+  {
+    "@id": "_:b2426",
+    "http://w3c/future-csv-vocab/row": 49309,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24047,
+    "miur:CODICECOMUNESCUOLA": "L400",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS027001",
+    "miur:CODICESCUOLA": "BGIS027001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GAETANO CANTONI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GAETANO CANTONI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TREVIGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS027001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis027001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MERISIO 17/C",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.itastreviglio.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.519841,
+      "lon": 9.60525
+    }
+  },
+  {
+    "@id": "_:b40876",
+    "http://w3c/future-csv-vocab/row": 6903,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24129,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS02900L",
+    "miur:CODICESCUOLA": "BGIS02900L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"CATERINA CANIANA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"CATERINA CANIANA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS02900L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis02900l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DEL POLARESCO 19",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.692346,
+      "lon": 9.633483
+    }
+  },
+  {
+    "@id": "_:b24829",
+    "http://w3c/future-csv-vocab/row": 12610,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24125,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS03100L",
+    "miur:CODICESCUOLA": "BGIS03100L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"MARIO RIGONI STERN\"",
+    "miur:DENOMINAZIONESCUOLA": "\"MARIO RIGONI STERN\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS03100L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis03100l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BORGO PALAZZO 128",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6929228,
+      "lon": 9.6947745
+    }
+  },
+  {
+    "@id": "_:b19361",
+    "http://w3c/future-csv-vocab/row": 27473,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24125,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS03200C",
+    "miur:CODICESCUOLA": "BGIS03200C",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GIULIO NATTA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GIULIO NATTA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS03200C@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis03200c@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIALE EUROPA 15",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.68821897,
+      "lon": 9.682743598
+    }
+  },
+  {
+    "@id": "_:b1632",
+    "http://w3c/future-csv-vocab/row": 29476,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24047,
+    "miur:CODICECOMUNESCUOLA": "L400",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS033008",
+    "miur:CODICESCUOLA": "BGIS033008",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ZENALE E BUTINONE\"",
+    "miur:DENOMINAZIONESCUOLA": "\"ZENALE E BUTINONE\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TREVIGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS033008@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis033008@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA GALVANI 7",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.zenale.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5198449,
+      "lon": 9.5851919
+    }
+  },
+  {
+    "@id": "_:b29851",
+    "http://w3c/future-csv-vocab/row": 30098,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24058,
+    "miur:CODICECOMUNESCUOLA": "H509",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS034004",
+    "miur:CODICESCUOLA": "BGIS034004",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"DON LORENZO MILANI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"DON LORENZO MILANI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ROMANO DI LOMBARDIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS034004@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgis034004@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BELVEDERE",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5226355,
+      "lon": 9.7559894
+    }
+  },
+  {
+    "@id": "_:b44278",
+    "http://w3c/future-csv-vocab/row": 36095,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24047,
+    "miur:CODICECOMUNESCUOLA": "L400",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS03700G",
+    "miur:CODICESCUOLA": "BGIS03700G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GUGLIELMO OBERDAN\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GUGLIELMO OBERDAN\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "TREVIGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS03700G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BGIS03700G@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIALE MERISIO 14",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 3,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.519841,
+      "lon": 9.60525
+    }
+  },
+  {
+    "@id": "_:b43312",
+    "http://w3c/future-csv-vocab/row": 40152,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24125,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS03800B",
+    "miur:CODICESCUOLA": "BGIS03800B",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GUIDO GALLI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GUIDO GALLI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS03800B@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BGIS03800B@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA GAVAZZENI 37",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.690642,
+      "lon": 9.6849418
+    }
+  },
+  {
+    "@id": "_:b7840",
+    "http://w3c/future-csv-vocab/row": 25145,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24016,
+    "miur:CODICECOMUNESCUOLA": "I079",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS041007",
+    "miur:CODICESCUOLA": "BGIS041007",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "SAN PELLEGRINO TERME",
+    "miur:DENOMINAZIONESCUOLA": "SAN PELLEGRINO TERME",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "SAN PELLEGRINO TERME",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS041007@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BGIS041007@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIALE DELLA VITTORIA 6",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A031",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.83874185,
+      "lon": 9.663729242
+    }
+  },
+  {
+    "@id": "_:b39128",
+    "http://w3c/future-csv-vocab/row": 3661,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24128,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGPM02000L",
+    "miur:CODICESCUOLA": "BGPM02000L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GIOVANNI FALCONE\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GIOVANNI FALCONE\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO MAGISTRALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGPM02000L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgpm02000l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DUNANT 1",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceofalconebg.edu.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.692816,
+      "lon": 9.644593
+    }
+  },
+  {
+    "@id": "_:b6194",
+    "http://w3c/future-csv-vocab/row": 4456,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24121,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGPS02000G",
+    "miur:CODICESCUOLA": "BGPS02000G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"FILIPPO LUSSANA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"FILIPPO LUSSANA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGPS02000G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgps02000g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA ANGELO MAY1",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceolussana.edu.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.69354033,
+      "lon": 9.675694526
+    }
+  },
+  {
+    "@id": "_:b3264",
+    "http://w3c/future-csv-vocab/row": 29537,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24043,
+    "miur:CODICECOMUNESCUOLA": "B731",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGPS04000R",
+    "miur:CODICESCUOLA": "BGPS04000R",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GALILEO GALILEI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GALILEO GALILEI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CARAVAGGIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGPS04000R@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgps04000r@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA SAN FRANCESCO 119A",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceogalilei.edu.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.499891,
+      "lon": 9.637924
+    }
+  },
+  {
+    "@id": "_:b39803",
+    "http://w3c/future-csv-vocab/row": 12659,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24022,
+    "miur:CODICECOMUNESCUOLA": "A246",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGPS17000D",
+    "miur:CODICESCUOLA": "BGPS17000D",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"EDOARDO AMALDI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"EDOARDO AMALDI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ALZANO LOMBARDO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGPS17000D@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BGPS17000D@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA LOCATELLI 16",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceoamaldi.gov.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.732586,
+      "lon": 9.728542
+    }
+  },
+  {
+    "@id": "_:b48845",
+    "http://w3c/future-csv-vocab/row": 48686,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24129,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS026005",
+    "miur:CODICESCUOLA": "BGRF026506",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"MARIAGRAZIA MAMOLI\"",
+    "miur:DENOMINAZIONESCUOLA": "SERALE PROF.SOCIO SANITARIO \"MAMOLI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER I SERVIZI SOCIALI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGIS026005@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA BREMBILLA 3",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "WWW.ISISMAMOLIBERGAMO.IT",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6910602,
+      "lon": 9.6314438
+    }
+  },
+  {
+    "@id": "_:b5234",
+    "http://w3c/future-csv-vocab/row": 11184,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24027,
+    "miur:CODICECOMUNESCUOLA": "F864",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGRH020009",
+    "miur:CODICESCUOLA": "BGRH020009",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ALFREDO SONZOGNI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"ALFREDO SONZOGNI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "NEMBRO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGRH020009@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgrh020009@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BELLINI 54",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.alberghierosonzogni.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.741838,
+      "lon": 9.742888
+    }
+  },
+  {
+    "@id": "_:b28427",
+    "http://w3c/future-csv-vocab/row": 13178,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24126,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGRI15000D",
+    "miur:CODICESCUOLA": "BGRI15000D",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"CESARE PESENTI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"CESARE PESENTI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF INDUSTRIA E ARTIGIANATO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGRI15000D@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BGRI15000D@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA OZANAM 27",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "WWW.ISTITUTOPESENTI.EDU.IT",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6867341,
+      "lon": 9.678716
+    }
+  },
+  {
+    "@id": "_:b15738",
+    "http://w3c/future-csv-vocab/row": 13842,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24121,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGSL01000T",
+    "miur:CODICESCUOLA": "BGSL01000T",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\" GIACOMO E PIO MANZU' \"",
+    "miur:DENOMINAZIONESCUOLA": "\" GIACOMO E PIO MANZU' \"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO ARTISTICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGSL01000T@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgsl01000t@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA TORQUATO TASSO 18",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceoartisticobergamo.gov.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6967795,
+      "lon": 9.6742532
+    }
+  },
+  {
+    "@id": "_:b10716",
+    "http://w3c/future-csv-vocab/row": 46327,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24030,
+    "miur:CODICECOMUNESCUOLA": "H046",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGIS00800G",
+    "miur:CODICESCUOLA": "BGTD008506",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"MAIRONI DA PONTE\"",
+    "miur:DENOMINAZIONESCUOLA": "\"MAIRONI DA PONTE\" SER. TEC.",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "PRESEZZO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST TECNICO ECONOMICO E TECNOLOGICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA C. BERIZZI 1",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.maironidaponte.gov.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6955496,
+      "lon": 9.5771648
+    }
+  },
+  {
+    "@id": "_:b8810",
+    "http://w3c/future-csv-vocab/row": 17082,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24121,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGTD030002",
+    "miur:CODICESCUOLA": "BGTD030002",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"VITTORIO EMANUELE II\"",
+    "miur:DENOMINAZIONESCUOLA": "\"VITTORIO EMANUELE II\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO COMMERCIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGTD030002@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgtd030002@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA F. LUSSANA 2",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.vittorioemanuele.gov.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6924585,
+      "lon": 9.6746836
+    }
+  },
+  {
+    "@id": "_:b46046",
+    "http://w3c/future-csv-vocab/row": 12664,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24125,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGTF010003",
+    "miur:CODICESCUOLA": "BGTF010003",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"PIETRO PALEOCAPA\"",
+    "miur:DENOMINAZIONESCUOLA": "\"PIETRO PALEOCAPA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO INDUSTRIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGTF010003@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgtf010003@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA M. GAVAZZENI 29",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.itispaleocapa.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6901805,
+      "lon": 9.6808997
+    }
+  },
+  {
+    "@id": "_:b31694",
+    "http://w3c/future-csv-vocab/row": 11339,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24044,
+    "miur:CODICECOMUNESCUOLA": "D245",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGTF160001",
+    "miur:CODICESCUOLA": "BGTF160001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GUGLIELMO MARCONI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GUGLIELMO MARCONI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "DALMINE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO INDUSTRIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGTF160001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BGTF160001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA VERDI 60",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.icvilminorediscalve.gov.it",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.65075419,
+      "lon": 9.594245528
+    }
+  },
+  {
+    "@id": "_:b25463",
+    "http://w3c/future-csv-vocab/row": 11987,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24125,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGTL02000T",
+    "miur:CODICESCUOLA": "BGTL02000T",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GIACOMO QUARENGHI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GIACOMO QUARENGHI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO PER GEOMETRI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGTL02000T@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bgtl02000t@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA EUROPA 27",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.isisquarenghi.it",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6869784,
+      "lon": 9.6836496
+    }
+  },
+  {
+    "@id": "_:b32929",
+    "http://w3c/future-csv-vocab/row": 10113,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 24125,
+    "miur:CODICECOMUNESCUOLA": "A794",
+    "miur:CODICEISTITUTORIFERIMENTO": "BGTL02000T",
+    "miur:CODICESCUOLA": "BGTL020507",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"GIACOMO QUARENGHI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"GIACOMO QUARENGHI\" (CORSO SERALE)",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "BERGAMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO PER GEOMETRI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BGTL02000T@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA EUROPA 27",
+    "miur:PROVINCIA": "BERGAMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.isisquarenghi.it",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6869784,
+      "lon": 9.6836496
+    }
+  },
+  {
+    "@id": "_:b41585",
+    "http://w3c/future-csv-vocab/row": 3434,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25043,
+    "miur:CODICECOMUNESCUOLA": "B149",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS001009",
+    "miur:CODICESCUOLA": "BSIS001009",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "F.TASSARA - G.GHISLANDI",
+    "miur:DENOMINAZIONESCUOLA": "F.TASSARA - G.GHISLANDI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRENO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS001009@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis001009@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA FOLGORE 16",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.957024,
+      "lon": 10.311247
+    }
+  },
+  {
+    "@id": "_:b10191",
+    "http://w3c/future-csv-vocab/row": 11487,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25015,
+    "miur:CODICECOMUNESCUOLA": "D284",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS003001",
+    "miur:CODICESCUOLA": "BSIS003001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "BAZOLI",
+    "miur:DENOMINAZIONESCUOLA": "BAZOLI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "DESENZANO DEL GARDA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS003001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis003001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA GIOTTO 55",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.bazolipolo.it",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.4600872,
+      "lon": 10.54963825
+    }
+  },
+  {
+    "@id": "_:b18296",
+    "http://w3c/future-csv-vocab/row": 12807,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25074,
+    "miur:CODICECOMUNESCUOLA": "E280",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS00400R",
+    "miur:CODICESCUOLA": "BSIS00400R",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. DI VALLE SABBIA \"G. PERLASCA\"",
+    "miur:DENOMINAZIONESCUOLA": "I.I.S. DI VALLE SABBIA \"G. PERLASCA\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "IDRO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS00400R@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis00400r@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA TREVISO N. 26",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 6,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.7297003,
+      "lon": 10.4648477
+    }
+  },
+  {
+    "@id": "_:b23663",
+    "http://w3c/future-csv-vocab/row": 31259,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25063,
+    "miur:CODICECOMUNESCUOLA": "D918",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS00600C",
+    "miur:CODICESCUOLA": "BSIS00600C",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ISTITUTO ISTRUZIONE SUPERIORE C.BERETTA",
+    "miur:DENOMINAZIONESCUOLA": "ISTITUTO ISTRUZIONE SUPERIORE C.BERETTA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "GARDONE VAL TROMPIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS00600C@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis00600c@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA G. MATTEOTTI 299",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.684163,
+      "lon": 10.187547
+    }
+  },
+  {
+    "@id": "_:b45104",
+    "http://w3c/future-csv-vocab/row": 33338,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25048,
+    "miur:CODICECOMUNESCUOLA": "D391",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS007008",
+    "miur:CODICESCUOLA": "BSIS007008",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"F. MENEGHINI\" - EDOLO",
+    "miur:DENOMINAZIONESCUOLA": "\"F. MENEGHINI\" - EDOLO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "EDOLO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS007008@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis007008@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MORINO 5",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 3,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 46,
+      "lon": 10.33263777
+    }
+  },
+  {
+    "@id": "_:b32022",
+    "http://w3c/future-csv-vocab/row": 45677,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25024,
+    "miur:CODICECOMUNESCUOLA": "E526",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS00900X",
+    "miur:CODICESCUOLA": "BSIS00900X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. V.CAPIROLA",
+    "miur:DENOMINAZIONESCUOLA": "I.I.S. V.CAPIROLA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LENO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS00900X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis00900x@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA G. MARCONI 7",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "http//www.popolis.it/capirola",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.36814,
+      "lon": 10.219994
+    }
+  },
+  {
+    "@id": "_:b39324",
+    "http://w3c/future-csv-vocab/row": 38977,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25025,
+    "miur:CODICECOMUNESCUOLA": "E884",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS01100X",
+    "miur:CODICESCUOLA": "BSIS01100X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.S. \"PASCAL-MAZZOLARI\" - MANERBIO",
+    "miur:DENOMINAZIONESCUOLA": "I.S. \"PASCAL-MAZZOLARI\" - MANERBIO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MANERBIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS01100X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis01100x@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA SOLFERINO 92",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.3518,
+      "lon": 10.147349
+    }
+  },
+  {
+    "@id": "_:b11115",
+    "http://w3c/future-csv-vocab/row": 40975,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25018,
+    "miur:CODICECOMUNESCUOLA": "F471",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS01200Q",
+    "miur:CODICESCUOLA": "BSIS01200Q",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "DON MILANI - MONTICHIARI",
+    "miur:DENOMINAZIONESCUOLA": "DON MILANI - MONTICHIARI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MONTICHIARI",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS01200Q@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis01200q@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MARCONI 41",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.donmilanimontichiari.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.415723,
+      "lon": 10.3872608
+    }
+  },
+  {
+    "@id": "_:b16587",
+    "http://w3c/future-csv-vocab/row": 25152,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25034,
+    "miur:CODICECOMUNESCUOLA": "G149",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS01300G",
+    "miur:CODICESCUOLA": "BSIS01300G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"COSSALI\" - ORZINUOVI",
+    "miur:DENOMINAZIONESCUOLA": "\"COSSALI\" - ORZINUOVI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ORZINUOVI",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS01300G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis01300g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MILANO 83",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 6,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.39945925,
+      "lon": 9.901535744
+    }
+  },
+  {
+    "@id": "_:b28634",
+    "http://w3c/future-csv-vocab/row": 16482,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25068,
+    "miur:CODICECOMUNESCUOLA": "I433",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS016003",
+    "miur:CODICESCUOLA": "BSIS016003",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "PRIMO LEVI",
+    "miur:DENOMINAZIONESCUOLA": "PRIMO LEVI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "SAREZZO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS016003@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis016003@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DELLE BOMBE 2",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.65513738,
+      "lon": 10.20222753
+    }
+  },
+  {
+    "@id": "_:b20340",
+    "http://w3c/future-csv-vocab/row": 32921,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25038,
+    "miur:CODICECOMUNESCUOLA": "H598",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS01700V",
+    "miur:CODICESCUOLA": "BSIS01700V",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ROVATO - \"LORENZO GIGLI\"",
+    "miur:DENOMINAZIONESCUOLA": "ROVATO - \"LORENZO GIGLI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ROVATO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS01700V@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis01700v@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA EUROPA 46D",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5587745,
+      "lon": 9.9960541
+    }
+  },
+  {
+    "@id": "_:b34094",
+    "http://w3c/future-csv-vocab/row": 35877,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25036,
+    "miur:CODICECOMUNESCUOLA": "G264",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS01800P",
+    "miur:CODICESCUOLA": "BSIS01800P",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "IIS \"MARZOLI\" - PALAZZOLO S/O",
+    "miur:DENOMINAZIONESCUOLA": "IIS \"MARZOLI\" - PALAZZOLO S/O",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "PALAZZOLO SULL'OGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS01800P@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis01800p@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA LEVADELLO 26/B",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.iismarzoli.net",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5958137,
+      "lon": 9.8987237
+    }
+  },
+  {
+    "@id": "_:b30329",
+    "http://w3c/future-csv-vocab/row": 15287,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25030,
+    "miur:CODICECOMUNESCUOLA": "D082",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS02200A",
+    "miur:CODICESCUOLA": "BSIS02200A",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"DANDOLO\" - CORZANO",
+    "miur:DENOMINAZIONESCUOLA": "\"DANDOLO\" - CORZANO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CORZANO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS02200A@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis02200a@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "PIAZZA CHIESA 2",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 3,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.431235,
+      "lon": 10.037812
+    }
+  },
+  {
+    "@id": "_:b41705",
+    "http://w3c/future-csv-vocab/row": 29255,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25010,
+    "miur:CODICECOMUNESCUOLA": "H230",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS023006",
+    "miur:CODICESCUOLA": "BSIS023006",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. \"BONSIGNORI\" - REMEDELLO",
+    "miur:DENOMINAZIONESCUOLA": "I.I.S. \"BONSIGNORI\" - REMEDELLO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "REMEDELLO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "BSIC84700E",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS023006@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis023006@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA AVIS 1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "istitutobonsignori.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.320038,
+      "lon": 10.369167
+    }
+  },
+  {
+    "@id": "_:b36213",
+    "http://w3c/future-csv-vocab/row": 13571,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25123,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS024002",
+    "miur:CODICESCUOLA": "BSIS024002",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ASTOLFO LUNARDI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"ASTOLFO LUNARDI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS024002@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis024002@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA RICCOBELLI 47",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "http//www.lunardi-bs.it",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5588366,
+      "lon": 10.24062134
+    }
+  },
+  {
+    "@id": "_:b23008",
+    "http://w3c/future-csv-vocab/row": 36735,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25047,
+    "miur:CODICECOMUNESCUOLA": "D251",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS02700D",
+    "miur:CODICESCUOLA": "BSIS02700D",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I. S. \"OLIVELLI-PUTELLI\"- DARFO",
+    "miur:DENOMINAZIONESCUOLA": "I. S. \"OLIVELLI-PUTELLI\"- DARFO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "DARFO BOARIO TERME",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS02700D@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis02700d@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA UBERTOSA 1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.881269,
+      "lon": 10.176352
+    }
+  },
+  {
+    "@id": "_:b49097",
+    "http://w3c/future-csv-vocab/row": 39109,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25123,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS028009",
+    "miur:CODICESCUOLA": "BSIS028009",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"SRAFFA\" - BRESCIA",
+    "miur:DENOMINAZIONESCUOLA": "\"SRAFFA\" - BRESCIA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS028009@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis028009@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA COMBONI 6",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.532667,
+      "lon": 10.237864
+    }
+  },
+  {
+    "@id": "_:b25250",
+    "http://w3c/future-csv-vocab/row": 22364,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25124,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS029005",
+    "miur:CODICESCUOLA": "BSIS029005",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"CAMILLO GOLGI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"CAMILLO GOLGI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS029005@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis029005@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA RODI 16",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5253393,
+      "lon": 10.20755089
+    }
+  },
+  {
+    "@id": "_:b17272",
+    "http://w3c/future-csv-vocab/row": 25505,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25126,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS032001",
+    "miur:CODICESCUOLA": "BSIS032001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"FORTUNY\" - BRESCIA",
+    "miur:DENOMINAZIONESCUOLA": "\"FORTUNY\" - BRESCIA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS032001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis032001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BERCHET 5 E VIA APOLLONIO 21",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A044",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B006",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.54761336,
+      "lon": 10.19585493
+    }
+  },
+  {
+    "@id": "_:b39813",
+    "http://w3c/future-csv-vocab/row": 38026,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25017,
+    "miur:CODICECOMUNESCUOLA": "M312",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS03300R",
+    "miur:CODICESCUOLA": "BSIS03300R",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "IIS \"L. CEREBOTANI\"",
+    "miur:DENOMINAZIONESCUOLA": "IIS \"L. CEREBOTANI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LONATO DEL GARDA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS03300R@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis03300r@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA G.GALILEI 1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.460956,
+      "lon": 10.480615
+    }
+  },
+  {
+    "@id": "_:b44332",
+    "http://w3c/future-csv-vocab/row": 36034,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25036,
+    "miur:CODICECOMUNESCUOLA": "G264",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS03400L",
+    "miur:CODICESCUOLA": "BSIS03400L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ISTITUTO SUPERIORE \"GIOVANNI FALCONE\"",
+    "miur:DENOMINAZIONESCUOLA": "ISTITUTO SUPERIORE \"GIOVANNI FALCONE\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "PALAZZOLO SULL'OGLIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS03400L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis03400l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA LEVADELLO 24",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5959662,
+      "lon": 9.8987408
+    }
+  },
+  {
+    "@id": "_:b13690",
+    "http://w3c/future-csv-vocab/row": 2721,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25128,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS036008",
+    "miur:CODICESCUOLA": "BSIS036008",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.S.S. \"TARTAGLIA-OLIVIERI\"",
+    "miur:DENOMINAZIONESCUOLA": "I.S.S. \"TARTAGLIA-OLIVIERI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS036008@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsis036008@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA G. OBERDAN 12/E",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A007",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.5600321,
+      "lon": 10.2173798
+    }
+  },
+  {
+    "@id": "_:b5075",
+    "http://w3c/future-csv-vocab/row": 16066,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25032,
+    "miur:CODICECOMUNESCUOLA": "C618",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS03800X",
+    "miur:CODICESCUOLA": "BSIS03800X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. \"L.EINAUDI\"",
+    "miur:DENOMINAZIONESCUOLA": "I.I.S. \"L.EINAUDI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CHIARI",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS03800X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "BSIS03800X@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA FRATELLI SIRANI N.1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 3,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.54383874,
+      "lon": 9.926525098
+    }
+  },
+  {
+    "@id": "_:b23085",
+    "http://w3c/future-csv-vocab/row": 28251,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25015,
+    "miur:CODICECOMUNESCUOLA": "D284",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSPC020001",
+    "miur:CODICESCUOLA": "BSPC020001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"BAGATTA\" - DESENZANO",
+    "miur:DENOMINAZIONESCUOLA": "\"BAGATTA\" - DESENZANO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "DESENZANO DEL GARDA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO CLASSICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSPC020001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bspc020001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BAGATTA 30",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceobagatta.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.468891,
+      "lon": 10.539573
+    }
+  },
+  {
+    "@id": "_:b661",
+    "http://w3c/future-csv-vocab/row": 28849,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25122,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSPM020005",
+    "miur:CODICESCUOLA": "BSPM02050E",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO VERONICA GAMBARA",
+    "miur:DENOMINAZIONESCUOLA": "\"GAMBARA\" - BRESCIA (SERALE)",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO MAGISTRALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSPM020005@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA VERONICA GAMBARA 3",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceogambara.edu.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.537066,
+      "lon": 10.227198
+    }
+  },
+  {
+    "@id": "_:b15944",
+    "http://w3c/future-csv-vocab/row": 41172,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25043,
+    "miur:CODICECOMUNESCUOLA": "B149",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSPS03000P",
+    "miur:CODICESCUOLA": "BSPS03000P",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO SCIENTIFICO C.GOLGI",
+    "miur:DENOMINAZIONESCUOLA": "LICEO SCIENTIFICO C.GOLGI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRENO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSPS03000P@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsps03000p@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA FOLGORE 19",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceogolgi.edu.it",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.957024,
+      "lon": 10.311247
+    }
+  },
+  {
+    "@id": "_:b23726",
+    "http://w3c/future-csv-vocab/row": 49045,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25124,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSPS11000A",
+    "miur:CODICESCUOLA": "BSPS11000A",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO SCIENTIFICO STATALE LEONARDO",
+    "miur:DENOMINAZIONESCUOLA": "LICEO SCIENTIFICO STATALE LEONARDO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSPS11000A@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsps11000a@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA FEDERICO BALESTRIERI 6",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "http//www.liceoleonardobs.gov.it",
+    "seats": [
+      {
+        "classId": "A014",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.52330925,
+      "lon": 10.23331028
+    }
+  },
+  {
+    "@id": "_:b21843",
+    "http://w3c/future-csv-vocab/row": 13646,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25032,
+    "miur:CODICECOMUNESCUOLA": "C618",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS03800X",
+    "miur:CODICESCUOLA": "BSRA038508",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. \"L.EINAUDI\"",
+    "miur:DENOMINAZIONESCUOLA": "SERVIZI SOCIO SANITARI SERALE",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "CHIARI",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER L'AGRICOLTURA E L'AMBIENTE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS03800X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA FRATELLI SIRANI N. 1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "https//iisleinaudi.edu.it/",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.54383874,
+      "lon": 9.926525098
+    }
+  },
+  {
+    "@id": "_:b19",
+    "http://w3c/future-csv-vocab/row": 40597,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25123,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS028009",
+    "miur:CODICESCUOLA": "BSRC02852P",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"SRAFFA\" - BRESCIA",
+    "miur:DENOMINAZIONESCUOLA": "\"SRAFFA\" SERALE BRESCIA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER I SERVIZI COMMERCIALI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA COMBONI 6",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.sraffa.gov.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.532667,
+      "lon": 10.237864
+    }
+  },
+  {
+    "@id": "_:b42342",
+    "http://w3c/future-csv-vocab/row": 2395,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25083,
+    "miur:CODICECOMUNESCUOLA": "D917",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSRH02000T",
+    "miur:CODICESCUOLA": "BSRH02000T",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "IPSEOA C. DE MEDICI - SEDE GARDONE R.",
+    "miur:DENOMINAZIONESCUOLA": "IPSEOA C. DE MEDICI - SEDE GARDONE R.",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "GARDONE RIVIERA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER I SERVIZI ALBERGHIERI E RISTORAZIONE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSRH02000T@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsrh02000t@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA RAOUL FOLLEREAU 1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.alberghierodemedici.gov.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 5,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A031",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B021",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.62074935,
+      "lon": 10.55840353
+    }
+  },
+  {
+    "@id": "_:b4767",
+    "http://w3c/future-csv-vocab/row": 27427,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25126,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS032001",
+    "miur:CODICESCUOLA": "BSRI032512",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"FORTUNY\" - BRESCIA",
+    "miur:DENOMINAZIONESCUOLA": "FORTUNY - BRESCIA (SERALE)",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF INDUSTRIA E ARTIGIANATO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS032001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA BERCHET 5",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "http//www.istitutofortuny.edu.it/",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.547823,
+      "lon": 10.195617
+    }
+  },
+  {
+    "@id": "_:b33271",
+    "http://w3c/future-csv-vocab/row": 1215,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25123,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSTA01000V",
+    "miur:CODICESCUOLA": "BSTA01000V",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"G.PASTORI\"",
+    "miur:DENOMINAZIONESCUOLA": "\"G.PASTORI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO AGRARIO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSTA01000V@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bsta01000v@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIALE BORNATA 110",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.istitutopastoribrescia.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.526598,
+      "lon": 10.261981
+    }
+  },
+  {
+    "@id": "_:b10834",
+    "http://w3c/future-csv-vocab/row": 5147,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25087,
+    "miur:CODICECOMUNESCUOLA": "H717",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSTD02000X",
+    "miur:CODICESCUOLA": "BSTD02000X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "CESARE BATTISTI",
+    "miur:DENOMINAZIONESCUOLA": "CESARE BATTISTI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "SALO'",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST TEC COMMERCIALE E PER GEOMETRI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSTD02000X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bstd02000x@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA IV NOVEMBRE 11",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.itcgbattisti.gov.it",
+    "seats": [
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6069232,
+      "lon": 10.518295
+    }
+  },
+  {
+    "@id": "_:b22750",
+    "http://w3c/future-csv-vocab/row": 16742,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25032,
+    "miur:CODICECOMUNESCUOLA": "C618",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS03800X",
+    "miur:CODICESCUOLA": "BSTD03851G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. \"L.EINAUDI\"",
+    "miur:DENOMINAZIONESCUOLA": "I.T.C.G. \"L.EINAUDI - (SERALE)",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "PERCORSO II LIVELLO",
+    "miur:DESCRIZIONECOMUNE": "CHIARI",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST TEC COMMERCIALE E PER GEOMETRI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS03800X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA FRATELLI SIRANI N.1",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.iisleianudi.it",
+    "seats": [
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.54383874,
+      "lon": 9.926525098
+    }
+  },
+  {
+    "@id": "_:b42817",
+    "http://w3c/future-csv-vocab/row": 3597,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25128,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSTD15000L",
+    "miur:CODICESCUOLA": "BSTD15000L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "\"ABBA-BALLINI\" - BRESCIA",
+    "miur:DENOMINAZIONESCUOLA": "\"ABBA-BALLINI\" - BRESCIA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO COMMERCIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSTD15000L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "bstd15000l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA TIRANDI 3",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.abba-ballini.govit",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.560798,
+      "lon": 10.2193582
+    }
+  },
+  {
+    "@id": "_:b13110",
+    "http://w3c/future-csv-vocab/row": 10988,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 25128,
+    "miur:CODICECOMUNESCUOLA": "B157",
+    "miur:CODICEISTITUTORIFERIMENTO": "BSIS037004",
+    "miur:CODICESCUOLA": "BSTF03702N",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.S. CASTELLI",
+    "miur:DENOMINAZIONESCUOLA": "SCUOLA OSPEDALIERA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "C/O IST. OSPEDALIERO",
+    "miur:DESCRIZIONECOMUNE": "BRESCIA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO INDUSTRIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "NO",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "BSIS037004@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "Non Disponibile",
+    "miur:INDIRIZZOSCUOLA": "VIA A CANTORE 9",
+    "miur:PROVINCIA": "BRESCIA",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.itiscastelli.it",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.555994,
+      "lon": 10.21551
+    }
+  },
+  {
+    "@id": "_:b30304",
+    "http://w3c/future-csv-vocab/row": 45354,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22017,
+    "miur:CODICECOMUNESCUOLA": "F120",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS00100G",
+    "miur:CODICESCUOLA": "COIS00100G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "MENAGGIO",
+    "miur:DENOMINAZIONESCUOLA": "MENAGGIO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MENAGGIO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS00100G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois00100g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MALAGRIDA P. G. 3",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.vanonimenaggio.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B021",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 46,
+      "lon": 9.230867
+    }
+  },
+  {
+    "@id": "_:b40523",
+    "http://w3c/future-csv-vocab/row": 45487,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22066,
+    "miur:CODICECOMUNESCUOLA": "E951",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS00200B",
+    "miur:CODICESCUOLA": "COIS00200B",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. JEAN MONNET",
+    "miur:DENOMINAZIONESCUOLA": "I.I.S. JEAN MONNET",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MARIANO COMENSE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS00200B@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois00200b@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA SANTA CATERINA N. 3",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "http//www.ismonnet.it",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 1
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.68712625,
+      "lon": 9.179825318
+    }
+  },
+  {
+    "@id": "_:b23863",
+    "http://w3c/future-csv-vocab/row": 44346,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22063,
+    "miur:CODICECOMUNESCUOLA": "B639",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS003007",
+    "miur:CODICESCUOLA": "COIS003007",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "A.SANT'ELIA",
+    "miur:DENOMINAZIONESCUOLA": "A.SANT'ELIA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CANTU'",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS003007@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois003007@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA SESIA",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.istitutosantelia.it",
+    "seats": [
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.7418832,
+      "lon": 9.1161618
+    }
+  },
+  {
+    "@id": "_:b46417",
+    "http://w3c/future-csv-vocab/row": 1795,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22036,
+    "miur:CODICECOMUNESCUOLA": "D416",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS004003",
+    "miur:CODICESCUOLA": "COIS004003",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ISIS G.D. ROMAGNOSI",
+    "miur:DENOMINAZIONESCUOLA": "ISIS G.D. ROMAGNOSI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ERBA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS004003@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois004003@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CARDUCCI 5",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.814939,
+      "lon": 9.23087
+    }
+  },
+  {
+    "@id": "_:b12301",
+    "http://w3c/future-csv-vocab/row": 4550,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS00700E",
+    "miur:CODICESCUOLA": "COIS00700E",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "PAOLO CARCANO",
+    "miur:DENOMINAZIONESCUOLA": "PAOLO CARCANO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS00700E@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois00700e@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CASTELNUOVO 5",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.8033858,
+      "lon": 9.095858362
+    }
+  },
+  {
+    "@id": "_:b17123",
+    "http://w3c/future-csv-vocab/row": 21758,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS009006",
+    "miur:CODICESCUOLA": "COIS009006",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LEONARDO DA VINCI - RIPAMONTI",
+    "miur:DENOMINAZIONESCUOLA": "LEONARDO DA VINCI - RIPAMONTI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS009006@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois009006@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BELVEDERE 18",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 7,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 0,
+        "extSeats": 1
+      }
+    ],
+    "coord": {
+      "lat": 45.783654,
+      "lon": 9.083621
+    }
+  },
+  {
+    "@id": "_:b13944",
+    "http://w3c/future-csv-vocab/row": 25001,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22077,
+    "miur:CODICECOMUNESCUOLA": "G025",
+    "miur:CODICEISTITUTORIFERIMENTO": "COIS011006",
+    "miur:CODICESCUOLA": "COIS011006",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "GIUSEPPE TERRAGNI",
+    "miur:DENOMINAZIONESCUOLA": "GIUSEPPE TERRAGNI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "OLGIATE COMASCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COIS011006@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cois011006@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA SEGANTINI N. 41",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A027",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 0,
+        "extSeats": 1
+      }
+    ],
+    "coord": {
+      "lat": 45.78064705,
+      "lon": 8.965214518
+    }
+  },
+  {
+    "@id": "_:b30488",
+    "http://w3c/future-csv-vocab/row": 34329,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COPC020007",
+    "miur:CODICESCUOLA": "COPC020007",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ALESSANDRO VOLTA",
+    "miur:DENOMINAZIONESCUOLA": "ALESSANDRO VOLTA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO CLASSICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COPC020007@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "copc020007@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CESARE CANTU' 57",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceovoltacomo.edu.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.8070524,
+      "lon": 9.085922131
+    }
+  },
+  {
+    "@id": "_:b587",
+    "http://w3c/future-csv-vocab/row": 37589,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COPM02000B",
+    "miur:CODICESCUOLA": "COPM02000B",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO TERESA CICERI",
+    "miur:DENOMINAZIONESCUOLA": "LICEO TERESA CICERI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO MAGISTRALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COPM02000B@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "copm02000b@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CARDUCCI 9",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.teresaciceri.eu",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "BB02",
+        "intSeats": 0,
+        "extSeats": 1
+      }
+    ],
+    "coord": {
+      "lat": 45.806969,
+      "lon": 9.086351
+    }
+  },
+  {
+    "@id": "_:b26485",
+    "http://w3c/future-csv-vocab/row": 38038,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22036,
+    "miur:CODICECOMUNESCUOLA": "D416",
+    "miur:CODICEISTITUTORIFERIMENTO": "COPM030002",
+    "miur:CODICESCUOLA": "COPM030002",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO STATALE \" CARLO PORTA \" ERBA",
+    "miur:DENOMINAZIONESCUOLA": "LICEO STATALE \" CARLO PORTA \" ERBA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ERBA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO MAGISTRALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COPM030002@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "copm030002@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "PIAZZA SAN G.B.DE LA SALLE N. 2",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceoporta.edu.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.811532,
+      "lon": 9.214145
+    }
+  },
+  {
+    "@id": "_:b8125",
+    "http://w3c/future-csv-vocab/row": 20089,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22036,
+    "miur:CODICECOMUNESCUOLA": "D416",
+    "miur:CODICEISTITUTORIFERIMENTO": "COPS02000A",
+    "miur:CODICESCUOLA": "COPS02000A",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LS GALILEO GALILEI",
+    "miur:DENOMINAZIONESCUOLA": "LS GALILEO GALILEI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "ERBA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COPS02000A@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cops02000a@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA VOLONTARI DELLA LIBERTA' 18/C",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.galileierba.gov.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.81425325,
+      "lon": 9.232912382
+    }
+  },
+  {
+    "@id": "_:b24684",
+    "http://w3c/future-csv-vocab/row": 20727,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COPS030001",
+    "miur:CODICESCUOLA": "COPS030001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "PAOLO GIOVIO",
+    "miur:DENOMINAZIONESCUOLA": "PAOLO GIOVIO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COPS030001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cops030001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA PASQUALE PAOLI 28",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceogiovio.edu.it",
+    "seats": [
+      {
+        "classId": "A050",
+        "intSeats": 0,
+        "extSeats": 1
+      }
+    ],
+    "coord": {
+      "lat": 45.7879169,
+      "lon": 9.0785893
+    }
+  },
+  {
+    "@id": "_:b4416",
+    "http://w3c/future-csv-vocab/row": 18710,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22063,
+    "miur:CODICECOMUNESCUOLA": "B639",
+    "miur:CODICEISTITUTORIFERIMENTO": "COPS04000G",
+    "miur:CODICESCUOLA": "COPS04000G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ENRICO FERMI",
+    "miur:DENOMINAZIONESCUOLA": "ENRICO FERMI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CANTU'",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COPS04000G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cops04000g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA GIOVANNI XXIII",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceofermicantu.gov.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.74188406,
+      "lon": 9.114387424
+    }
+  },
+  {
+    "@id": "_:b22031",
+    "http://w3c/future-csv-vocab/row": 22779,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "CORC010008",
+    "miur:CODICESCUOLA": "CORC010008",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "G.PESSINA",
+    "miur:DENOMINAZIONESCUOLA": "G.PESSINA",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER I SERVIZI COMMERCIALI E TURISTICI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "CORC010008@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "corc010008@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA MILANO N. 182",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.istitutopessina.gov.it",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.8062458,
+      "lon": 9.0853647
+    }
+  },
+  {
+    "@id": "_:b1032",
+    "http://w3c/future-csv-vocab/row": 29352,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22063,
+    "miur:CODICECOMUNESCUOLA": "B639",
+    "miur:CODICEISTITUTORIFERIMENTO": "COSD02000R",
+    "miur:CODICESCUOLA": "COSD02000R",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO ARTISTICO \"F. MELOTTI\"",
+    "miur:DENOMINAZIONESCUOLA": "LICEO ARTISTICO \"F. MELOTTI\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CANTU'",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO D'ARTE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COSD02000R@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "COSD02000R@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA F. ANDINA 8",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceoartisticomelotti.edu.it",
+    "seats": [
+      {
+        "classId": "A014",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A027",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.737207,
+      "lon": 9.132348
+    }
+  },
+  {
+    "@id": "_:b27058",
+    "http://w3c/future-csv-vocab/row": 30246,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COTD01000G",
+    "miur:CODICESCUOLA": "COTD01000G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "CAIO PLINIO SECONDO",
+    "miur:DENOMINAZIONESCUOLA": "CAIO PLINIO SECONDO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO COMMERCIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COTD01000G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cotd01000g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA ITALIA LIBERA 1",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.caioplinio.gov.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 1
+      },
+      {
+        "classId": "A047",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.8050883,
+      "lon": 9.0828972
+    }
+  },
+  {
+    "@id": "_:b16812",
+    "http://w3c/future-csv-vocab/row": 30650,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 22100,
+    "miur:CODICECOMUNESCUOLA": "C933",
+    "miur:CODICEISTITUTORIFERIMENTO": "COTF01000T",
+    "miur:CODICESCUOLA": "COTF01000T",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "MAGISTRI CUMACINI",
+    "miur:DENOMINAZIONESCUOLA": "MAGISTRI CUMACINI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COMO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO TECNICO INDUSTRIALE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "COTF01000T@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "cotf01000t@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA COLOMBO",
+    "miur:PROVINCIA": "COMO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.magistricumacini.edu.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A050",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.784627,
+      "lon": 9.054029
+    }
+  },
+  {
+    "@id": "_:b31917",
+    "http://w3c/future-csv-vocab/row": 24752,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23807,
+    "miur:CODICECOMUNESCUOLA": "F133",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS001009",
+    "miur:CODICESCUOLA": "LCIS001009",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "FRANCESCO VIGANO MERATE",
+    "miur:DENOMINAZIONESCUOLA": "FRANCESCO VIGANO MERATE",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MERATE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS001009@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis001009@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DEI LODOVICHI 2",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A026",
+        "intSeats": 4,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.69376367,
+      "lon": 9.425144342
+    }
+  },
+  {
+    "@id": "_:b39283",
+    "http://w3c/future-csv-vocab/row": 6398,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23848,
+    "miur:CODICECOMUNESCUOLA": "G009",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS002005",
+    "miur:CODICESCUOLA": "LCIS002005",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "VITTORIO BACHELET OGGIONO",
+    "miur:DENOMINAZIONESCUOLA": "VITTORIO BACHELET OGGIONO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "OGGIONO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS002005@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis002005@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA V.BACHELET 6",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.79174595,
+      "lon": 9.335746235
+    }
+  },
+  {
+    "@id": "_:b21264",
+    "http://w3c/future-csv-vocab/row": 9092,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23823,
+    "miur:CODICECOMUNESCUOLA": "C839",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS003001",
+    "miur:CODICESCUOLA": "LCIS003001",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "MARCO POLO COLICO",
+    "miur:DENOMINAZIONESCUOLA": "MARCO POLO COLICO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "COLICO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS003001@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis003001@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA LA MADONETA 3",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A051",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 46,
+      "lon": 9.385489694
+    }
+  },
+  {
+    "@id": "_:b14670",
+    "http://w3c/future-csv-vocab/row": 19053,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23876,
+    "miur:CODICECOMUNESCUOLA": "F674",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS007008",
+    "miur:CODICESCUOLA": "LCIS007008",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ALESSANDRO GREPPI MONTICELLO",
+    "miur:DENOMINAZIONESCUOLA": "ALESSANDRO GREPPI MONTICELLO",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MONTICELLO BRIANZA",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS007008@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis007008@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DEI MILLE 27",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.issgreppi.it",
+    "seats": [
+      {
+        "classId": "A011",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A027",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 0,
+        "extSeats": 1
+      }
+    ],
+    "coord": {
+      "lat": 45.7032052,
+      "lon": 9.306995029
+    }
+  },
+  {
+    "@id": "_:b42371",
+    "http://w3c/future-csv-vocab/row": 18458,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23801,
+    "miur:CODICECOMUNESCUOLA": "B423",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS008004",
+    "miur:CODICESCUOLA": "LCIS008004",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "I.I.S. \"LORENZO ROTA\" DI CALOLZIOCORTE",
+    "miur:DENOMINAZIONESCUOLA": "I.I.S. \"LORENZO ROTA\" DI CALOLZIOCORTE",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CALOLZIOCORTE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS008004@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis008004@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA LAVELLO 17",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.7972909,
+      "lon": 9.432138
+    }
+  },
+  {
+    "@id": "_:b24744",
+    "http://w3c/future-csv-vocab/row": 16031,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23900,
+    "miur:CODICECOMUNESCUOLA": "E507",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS00900X",
+    "miur:CODICESCUOLA": "LCIS00900X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "IST. ISTR.SUP. S.TEN. VASC. A. BADONI",
+    "miur:DENOMINAZIONESCUOLA": "IST. ISTR.SUP. S.TEN. VASC. A. BADONI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LECCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS00900X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis00900x@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA RIVOLTA N. 10",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A048",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "B016",
+        "intSeats": 2,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.852588,
+      "lon": 9.4012649
+    }
+  },
+  {
+    "@id": "_:b26489",
+    "http://w3c/future-csv-vocab/row": 43182,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23900,
+    "miur:CODICECOMUNESCUOLA": "E507",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS01100X",
+    "miur:CODICESCUOLA": "LCIS01100X",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "G.PARINI",
+    "miur:DENOMINAZIONESCUOLA": "G.PARINI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LECCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS01100X@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis01100x@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BADONI 2",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A047",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.85169,
+      "lon": 9.400786
+    }
+  },
+  {
+    "@id": "_:b1265",
+    "http://w3c/future-csv-vocab/row": 45502,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23900,
+    "miur:CODICECOMUNESCUOLA": "E507",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS01200Q",
+    "miur:CODICESCUOLA": "LCIS01200Q",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ISTITUTO SUPERIORE P. A. FIOCCHI",
+    "miur:DENOMINAZIONESCUOLA": "ISTITUTO SUPERIORE P. A. FIOCCHI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LECCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS01200Q@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis01200q@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA BELFIORE 4",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 5,
+        "extSeats": 0
+      },
+      {
+        "classId": "A014",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A050",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "AB24",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.8518887,
+      "lon": 9.4051278
+    }
+  },
+  {
+    "@id": "_:b40429",
+    "http://w3c/future-csv-vocab/row": 48819,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23900,
+    "miur:CODICECOMUNESCUOLA": "E507",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCIS01300G",
+    "miur:CODICESCUOLA": "LCIS01300G",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "IST. ISTR. SUP.\"MEDARDO ROSSO\"",
+    "miur:DENOMINAZIONESCUOLA": "IST. ISTR. SUP.\"MEDARDO ROSSO\"",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LECCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "ISTITUTO SUPERIORE",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCIS01300G@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcis01300g@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA CALATAFIMI 5",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "Non Disponibile",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A037",
+        "intSeats": 1,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.8633635,
+      "lon": 9.392651525
+    }
+  },
+  {
+    "@id": "_:b44629",
+    "http://w3c/future-csv-vocab/row": 4921,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23900,
+    "miur:CODICECOMUNESCUOLA": "E507",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCPC01000A",
+    "miur:CODICESCUOLA": "LCPC01000A",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "ALESSANDRO MANZONI",
+    "miur:DENOMINAZIONESCUOLA": "ALESSANDRO MANZONI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LECCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO CLASSICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCPC01000A@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcpc01000a@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA GHISLANZONI 7",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.liceomanzonilecco.gov.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 0,
+        "extSeats": 1
+      }
+    ],
+    "coord": {
+      "lat": 45.85188425,
+      "lon": 9.39540614
+    }
+  },
+  {
+    "@id": "_:b21085",
+    "http://w3c/future-csv-vocab/row": 5509,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23900,
+    "miur:CODICECOMUNESCUOLA": "E507",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCPS01000D",
+    "miur:CODICESCUOLA": "LCPS01000D",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "LICEO SCIENTIFICO E MUSICALE G.B. GRASSI",
+    "miur:DENOMINAZIONESCUOLA": "LICEO SCIENTIFICO E MUSICALE G.B. GRASSI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "LECCO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCPS01000D@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcps01000d@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "LARGO MONTENERO 3",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.grassilecco.edu.it",
+    "seats": [
+      {
+        "classId": "A013",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.856886,
+      "lon": 9.39213
+    }
+  },
+  {
+    "@id": "_:b11472",
+    "http://w3c/future-csv-vocab/row": 3546,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23807,
+    "miur:CODICECOMUNESCUOLA": "F133",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCPS020004",
+    "miur:CODICESCUOLA": "LCPS020004",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "M.G. AGNESI",
+    "miur:DENOMINAZIONESCUOLA": "M.G. AGNESI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "MERATE",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "LICEO SCIENTIFICO",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCPS020004@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcps020004@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DEI LODOVICHI 10",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "http//www.liceoagnesi.gov.it",
+    "seats": [
+      {
+        "classId": "A027",
+        "intSeats": 0,
+        "extSeats": 1
+      },
+      {
+        "classId": "A050",
+        "intSeats": 4,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.6927621,
+      "lon": 9.425170116
+    }
+  },
+  {
+    "@id": "_:b39424",
+    "http://w3c/future-csv-vocab/row": 7262,
+    "miur:ANNOSCOLASTICO": 202425,
+    "miur:AREAGEOGRAFICA": "NORD OVEST",
+    "miur:CAPSCUOLA": 23880,
+    "miur:CODICECOMUNESCUOLA": "B943",
+    "miur:CODICEISTITUTORIFERIMENTO": "LCRC02000L",
+    "miur:CODICESCUOLA": "LCRC02000L",
+    "miur:DENOMINAZIONEISTITUTORIFERIMENTO": "GRAZIELLA FUMAGALLI",
+    "miur:DENOMINAZIONESCUOLA": "GRAZIELLA FUMAGALLI",
+    "miur:DESCRIZIONECARATTERISTICASCUOLA": "NORMALE",
+    "miur:DESCRIZIONECOMUNE": "CASATENOVO",
+    "miur:DESCRIZIONETIPOLOGIAGRADOISTRUZIONESCUOLA": "IST PROF PER I SERVIZI COMMERCIALI E TURISTICI",
+    "miur:INDICAZIONESEDEDIRETTIVO": "SI",
+    "miur:INDICAZIONESEDEOMNICOMPRENSIVO": "Non Disponibile",
+    "miur:INDIRIZZOEMAILSCUOLA": "LCRC02000L@istruzione.it",
+    "miur:INDIRIZZOPECSCUOLA": "lcrc02000l@pec.istruzione.it",
+    "miur:INDIRIZZOSCUOLA": "VIA DELLA MISERICORDIA 4",
+    "miur:PROVINCIA": "LECCO",
+    "miur:REGIONE": "LOMBARDIA",
+    "miur:SEDESCOLASTICA": "NO",
+    "miur:SITOWEBSCUOLA": "www.istitutograziellafumagalli.gov.it",
+    "seats": [
+      {
+        "classId": "A012",
+        "intSeats": 4,
+        "extSeats": 0
+      },
+      {
+        "classId": "A026",
+        "intSeats": 3,
+        "extSeats": 0
+      },
+      {
+        "classId": "A048",
+        "intSeats": 2,
+        "extSeats": 0
+      },
+      {
+        "classId": "B016",
+        "intSeats": 1,
+        "extSeats": 0
+      }
+    ],
+    "coord": {
+      "lat": 45.699566,
+      "lon": 9.313131
+    }
+  }
+]
