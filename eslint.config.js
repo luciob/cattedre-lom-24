@@ -33,6 +33,8 @@ export default [
       "data/geo-db-lom.json",
       "data/miur-db.json",
       "data/seats-db-lom.json",
+      /* Docs page */
+      "docs",
     ],
   },
   { settings: { react: { version: "detect" } } },
