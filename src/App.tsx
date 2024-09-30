@@ -1,6 +1,9 @@
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import { extractComoSchools } from "./utils/schools";
 import { LatLngExpression } from "leaflet";
+import markerIconPng from "leaflet/dist/images/marker-icon.png";
+import { Icon } from "leaflet";
+
 import { useCallback, useState } from "react";
 import {
   AppBar,
@@ -134,6 +137,7 @@ function App() {
                     <Marker
                       key={`marker-${school["miur:CODICESCUOLA"]}`}
                       position={[school.coord.lat, school.coord.lon]}
+                      icon={new Icon({ iconUrl: markerIconPng, iconSize: [25, 41], iconAnchor: [12, 41] })}
                     >
                       <Popup>
                         <SchoolCard classId={classId} school={school} />
