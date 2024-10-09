@@ -1,4 +1,4 @@
-import { Card, CardContent, Chip, Typography, useTheme } from "@mui/material";
+import { Card, CardContent, Chip, Tooltip, Typography, useTheme } from "@mui/material";
 import { School } from "../../utils/schools";
 
 type SchoolCardProps = {
@@ -19,7 +19,15 @@ const SchoolCard = ({ classId, school }: SchoolCardProps) => {
         <Typography variant="caption">
           {school["miur:INDIRIZZOSCUOLA"]}, {school["miur:DESCRIZIONECOMUNE"]}
         </Typography>
-        <ul style={{ display: "flex", flexWrap: "wrap", marginTop: "8px", padding: "0", listStyle: "none" }}>
+        <ul
+          style={{
+            display: "flex",
+            flexWrap: "wrap",
+            margin: `${spacing(0.5)} 0 0 0`,
+            padding: "0",
+            listStyle: "none",
+          }}
+        >
           {school.seats
             .sort((a, b) => a.classId.localeCompare(b.classId))
             .filter((seat) => !classId || seat.classId.toUpperCase() === classId.toUpperCase())
@@ -37,8 +45,12 @@ const SchoolCard = ({ classId, school }: SchoolCardProps) => {
                   }}
                 >
                   <Typography variant="caption">{seat.classId}</Typography>
-                  <Chip color="success" label={seat.intSeats} size="small" style={{ marginLeft: "4px" }} />
-                  <Chip color="error" label={seat.extSeats} size="small" style={{ marginLeft: "2px" }} />
+                  <Tooltip title="Accantonamenti Interni">
+                    <Chip color="success" label={seat.intSeats} size="small" style={{ marginLeft: "4px" }} />
+                  </Tooltip>
+                  <Tooltip title="Accantonamenti Esterni">
+                    <Chip color="error" label={seat.extSeats} size="small" style={{ marginLeft: "2px" }} />
+                  </Tooltip>
                 </div>
               </li>
             ))}

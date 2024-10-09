@@ -5,23 +5,15 @@ import markerIconPng from "leaflet/dist/images/marker-icon.png";
 import { Icon } from "leaflet";
 
 import { useCallback, useState } from "react";
-import {
-  AppBar,
-  Dialog,
-  DialogContent,
-  DialogTitle,
-  Fab,
-  Grid2,
-  TextField,
-  Toolbar,
-  Typography,
-  useTheme,
-} from "@mui/material";
-import InfoIcon from "@mui/icons-material/Info";
+import { AppBar, Button, Fab, Grid2, TextField, Toolbar, Typography, useTheme } from "@mui/material";
 import SchoolCard from "./components/SchoolCard";
+import InfoDialog from "./components/InfoDialog";
+import NewsDialog from "./components/NewsDialog";
 
 // https://tableconvert.com/
 // https://www.geoapify.com/
+// https://www.geoapify.com/tools/geocoding-online/
+// https://www.adobe.com/acrobat/online/pdf-to-excel.html
 
 const MAP_CENTER: LatLngExpression = [45.67819397, 9.74250449];
 
@@ -31,6 +23,7 @@ function App() {
   const [province, setProvince] = useState("");
 
   const [infoOpen, setInfoOpen] = useState(false);
+  const [newsOpen, setNewsOpen] = useState(false);
 
   const schools = extractComoSchools().filter((school) => {
     if (!province && !city && !classId) {
@@ -56,11 +49,21 @@ function App() {
 
   const toggleInfo = useCallback(() => setInfoOpen((infoOpen) => !infoOpen), []);
 
+  const toggleNews = useCallback(() => setNewsOpen((newsOpen) => !newsOpen), []);
+
   return (
     <div style={{ position: "relative" }}>
       <AppBar component="nav">
         <Toolbar>
-          <Typography>Cattedre Lombardia 2024</Typography>
+          <Typography sx={{ flexGrow: 1 }}>Cattedre Lombardia 2024</Typography>
+          <div style={{ display: "flex" }}>
+            <Button color="info" onClick={toggleNews} variant="contained">
+              Novità 🌟
+            </Button>
+            {/* <Button color="error" variant="contained" sx={{ ml: 1 }}>
+              Segnala 🪲
+            </Button> */}
+          </div>
         </Toolbar>
       </AppBar>
       <div style={{ width: "calc(100% - 32px)", height: "calc(100vh - 72px)", marginTop: "72px" }}>
@@ -150,23 +153,11 @@ function App() {
           </Grid2>
         </Grid2>
       </div>
-      <Fab color="primary" style={{ bottom: spacing(2), right: spacing(2), position: "fixed" }} onClick={toggleInfo}>
-        <InfoIcon />
+      <Fab color="info" style={{ bottom: spacing(2), right: spacing(2), position: "fixed" }} onClick={toggleInfo}>
+        ℹ️
       </Fab>
-      {infoOpen && (
-        <Dialog maxWidth="lg" onClose={toggleInfo} open={infoOpen}>
-          <DialogTitle>Cattedre Lombardia 2024</DialogTitle>
-          <DialogContent>
-            <Typography>
-              Questo sito è basato su Open Data del Ministero dell&apos;Istruzione e del merito.
-              <br />
-              <a href="https://dati.istruzione.it/opendata/opendata/catalogo/elements1/?area=Scuole" target="_blank">
-                Dettagli
-              </a>
-            </Typography>
-          </DialogContent>
-        </Dialog>
-      )}
+      {infoOpen && <InfoDialog open={infoOpen} toggle={toggleInfo} />}
+      {newsOpen && <NewsDialog open={newsOpen} toggle={toggleNews} />}
     </div>
   );
 }
